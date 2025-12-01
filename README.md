@@ -51,23 +51,4 @@ You can also show badges (replace username or links as needed):
 
 ---
 ## 📫 Contact
-- Portfolio / Blog: https://your-portfolio.vercel.app
-- Email: your-email@example.com
-- Replit: https://replit.com/@Vibe-Coder-Baljeet
-
----
-
-## How to use this as your GitHub profile README
-1. Create a repository named exactly: Vibe-Coder-Baljeet (your GitHub username).
-2. Add this README.md to the repo root on the default branch (main).
-3. Customize the badges, project links, and the GitHub-readme-stats username parameter.
-4. Optional: Add a GitHub Action to keep stats updated, or include a GIF/banner in the header:
-   - Example banner: `![banner](https://your-image-hosting.com/banner.gif)`
-5. Pin 3–6 key repositories on your profile (they’ll show under your profile header).
-6. Consider adding a small "WIP" Projects section and updating it monthly — it shows activity.
-
-If you'd like, I can:
-- generate a compact version for mobile, or
-- create multiple themed variants (dark, light, minimal),
-- produce social/contact badge icons with your actual links,
-- or produce the GitHub Action workflow to auto-update a "Current Focus" line.
+- Email: orgbaljeet@gmail.com
